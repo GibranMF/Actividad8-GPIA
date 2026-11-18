@@ -19,23 +19,6 @@ Se implementa una estrategia de observabilidad para un modelo de Machine Learnin
 
 Random Forest para aprobación de créditos.
 
-## Estructura del Proyecto
-
-/docs
-Documentación técnica y PDF final.
-
-/screenshots
-Capturas de MLflow, dashboards y evidencias.
-
-/src
-Scripts de monitoreo y automatización.
-
-/notebooks
-Análisis y simulaciones.
-
-/config
-Configuración de alertas.
-
 ## Autor
 
 Gibran Martinez
